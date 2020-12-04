@@ -1,0 +1,1 @@
+print( 1, 'two', 3, 'Lambda', 'School', 4, 5, 6, sep="\n")
